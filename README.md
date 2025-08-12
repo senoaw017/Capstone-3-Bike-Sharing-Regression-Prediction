@@ -51,5 +51,4 @@ Inti: Akurasi meningkat signifikan; model stabil pada data tak terlihat dan siap
 Lisensi & Sumber
 
 Data set bike sharing from https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset
-Bike-Share Demand Forecasting
-Prediksi jumlah peminjam sepeda per jam untuk optimasi armada & layanan pelanggan. Proyek ini membangun pipeline ML end-to-end (EDA → preprocessing → modeling → tuning → XAI) dan siap deploy.
+

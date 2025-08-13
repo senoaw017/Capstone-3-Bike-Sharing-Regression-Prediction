@@ -46,7 +46,9 @@ Inti: Akurasi meningkat signifikan; model stabil pada data tak terlihat dan siap
 
 - pengalaman pelanggan meningkat (stok habis & antrean menurun), potensi utilisasi & pendapatan naik.
 
+**Exportn Model**
 
+- Model di simpan dalam bentuk joblib ('model_bikesharing_capstone3.joblib')
 
  Sumber
 

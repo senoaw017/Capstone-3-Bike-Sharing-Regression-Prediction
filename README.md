@@ -40,7 +40,7 @@ Inti: Akurasi meningkat signifikan; model stabil pada data tak terlihat dan siap
 
 - Global: Permutation Importance, SHAP summary → key drivers: hr (jam), kalender (weekend/dayofweek/year), temp (+), weathersit/hum (−).
 
-**Implikasi Bisnis (ringkas)**
+**Implikasi Bisnis**
 
 - Perencanaan lebih presisi per jam/hari untuk armada, rebalancing, dan shift staf.
 
@@ -48,7 +48,7 @@ Inti: Akurasi meningkat signifikan; model stabil pada data tak terlihat dan siap
 
 
 
-Lisensi & Sumber
+ Sumber
 
 Data set bike sharing from https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset
 
